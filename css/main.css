@@ -1,0 +1,13 @@
+
+  strong, 
+  a,
+  h1,
+  p {
+    font-family: 'Spline Sans Mono', monospace;
+    letter-spacing: 2px;
+
+  }
+
+  .card {
+      padding: 0 60px 0 60px !important;
+  }
