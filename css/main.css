@@ -2,7 +2,8 @@
   strong, 
   a,
   h1,
-  p {
+  p,
+  h4 {
     font-family: 'Spline Sans Mono', monospace;
 
   }
