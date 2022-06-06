@@ -9,6 +9,10 @@
   }
 
 
+    .cc-navbar {
+      background-color: rgba(0, 0, 0, 0.55);
+  }
+
 
   @media (min-width: 1200px) { 
     
