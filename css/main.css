@@ -1,9 +1,19 @@
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+  font-size: 18px;
+}
+
+
 
   strong, 
   a,
   h1,
+  h2,
+  h4,
   p,
-  h4 {
+  li
+   {
     font-family: 'Spline Sans Mono', monospace;
 
   }
