@@ -31,6 +31,10 @@ html, body {
       background-color: rgba(0, 0, 0, 0.55);
   }
 
+.cc-section-insta {
+  background-color: #38524b;
+}
+
 
   @media (min-width: 1200px) { 
     
