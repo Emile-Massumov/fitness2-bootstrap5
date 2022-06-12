@@ -34,11 +34,10 @@ html, body {
 .cc-section-insta {
   background-color: #38524b;
 }
-.insta-image {
-  padding: 0 100px;
- }
- 
 
+.nav-link {
+  color: #fff !important;
+}
 
 
   @media (min-width: 1200px) { 
