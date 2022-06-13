@@ -39,9 +39,16 @@ html, body {
   color: #fff !important;
 }
 
+span {
+  font-size: 10px;
+}
+
 
   @media (min-width: 1200px) { 
     
+    span {
+      font-size: 18px;
+    }
   
    
  
