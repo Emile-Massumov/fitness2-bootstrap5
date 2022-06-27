@@ -43,6 +43,20 @@ span {
   font-size: 8px;
 }
 
+/*Thank you page*/
+.thank-you {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 50vh;
+  color: rgb(167, 17, 17);
+}
+
+.cc-thank-you {
+  background-color: bisque;
+}
+
 
   @media (min-width: 1200px) { 
     
